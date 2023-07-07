@@ -142,7 +142,7 @@ def main(token):
                                     'English - Select English language \n\n'
                                     '*Principal Menu* \n'
                                     '\U0001F4CD Location - Location of the CICICA building \n'
-                                    '\U0001F554 Working_Hours - Building Hours \n'
+                                    '\U0001F554 Working Hours - Building Hours \n'
                                     '\U0001F52C Tests - Available tests and their information \n'
                                     '\U0001F4DE Contact - Building number \n'
                                     'Other options - Entrance of private vehicles, Social Networks and informative videos', parse_mode='Markdown')
