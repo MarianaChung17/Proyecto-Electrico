@@ -26,7 +26,7 @@ Una vez ya descargados todos los archivos y guardados en una misma carpeta, para
 ## Manual de uso
 [Descargar Manual de uso](https://www.ejemplo.com)
 ## Flyer informmativo
-![Flyer CICICA_Bot ](https://www.canva.com/design/DAFn9-1cXsc/Hxo339S8dGGbsGFWnsvfVQ/watch?utm_content=DAFn9-1cXsc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Flyer CICICA_Bot ](https://www.canva.com/design/DAFn9-1cXsc/Hxo339S8dGGbsGFWnsvfVQ/watch)
 
 
 
