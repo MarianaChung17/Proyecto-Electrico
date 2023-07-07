@@ -316,13 +316,12 @@ def main(token):
                 cicica_bot.send_photo(call.message.chat.id, photo, caption= mensaje, parse_mode='Markdown', reply_markup = markup)
 
             if call.data =='correo_en':
-
                 cicica_bot.send_message(call.message.chat.id, 'Please, send me your name:')
                 cicica_bot.register_next_step_handler(message, guardar_nombre_en)
             if call.data =='no_en':
                 cicica_bot.send_message(call.message.chat.id, 'Hit the "Contact by mail" button again')
             if call.data == 'si_en':
-                correo_destino = 'nanachung.17@gmail.com'  
+                correo_destino = 'cicica@ucr.ac.cr'  
                 mensaje = f'Hola! \n De parte del CICICA_Bot, el usuario {nombre_en}. Esta interesado en {nombre_prueba_en} \n Informacion: \n Nombre: {nombre_en}\n Cedula: {cedula_en}\n Conctacto:{contacto_en}'
                 asunto = 'CICICA_Bot'
                 sendgrid_api_key = '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'  
@@ -672,7 +671,7 @@ def main(token):
                     cicica_bot.send_message(call.message.chat.id, 'Vuelve a estripar el botón de "Contactar por correo"')
             if call.data == 'si':
                 cicica_bot.send_message(call.message.chat.id, 'Perfecto, muchas gracias \U0000263A')
-                correo_destino = 'nanachung.17@gmail.com'  
+                correo_destino = 'cicica@ucr.ac.cr'  
                 mensaje = (f'Saludos,\nDe parte del CICICA_Bot, el usuario {nombre} está interesado en {nombre_prueba}\nInformación: \nNombre: {nombre}\nCédula: {cedula}\nContacto:{contacto}\n\nUn gusto servirles, CICICA_Bot')
                 asunto = 'CICICA_Bot'
                 sendgrid_api_key = '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'  
