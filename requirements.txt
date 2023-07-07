@@ -2,6 +2,6 @@
 # Author: Mariana Chung Garita
 # Project: CICICA TelegramBot
 # Student ID: B92250
-# Versión de Python: 3.9.6
+# Versión de Python: 3.11.4
 telebot==0.0.5
 requests==2.30.0
