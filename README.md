@@ -1,4 +1,4 @@
-# Proyecto-Electrico
+# Proyecto Electrico
 Desarrollo de un Telegram bot para informacion, ingreso y gestion del CICICA.
 ## Descripcion
 Se trata de un script que programa un telegram bot que proporciona informacion general sobre el Centro de Investigación en Cirugía y Cáncer, para una mejor gestion.
