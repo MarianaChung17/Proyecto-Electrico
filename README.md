@@ -14,6 +14,8 @@ Se trata de un script que programa un telegram bot que proporciona informacion g
 * proporciona links de las redes sociales del CICICA.
 * Proporciona una lista de videos del canal de YouTube del Centro.
 ## Requisitos previos
+### Version Python
+`Python 3.11.4`
 ### Librerias
 * Telebot `pip install pyTelegramBotAPI`
 * Request `pip install requests`
