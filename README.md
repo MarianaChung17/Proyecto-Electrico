@@ -23,7 +23,7 @@ Se trata de un script que programa un telegram bot que proporciona informacion g
 Para el correcto funcionamiento del bot es necesario guardar todos los archivos de este repositorio en una misma carpeta, incuyendo tanto los archivos .py como los archivos .mp4.
 ## Guia de uso
 Una vez ya descargados todos los archivos y guardados en una misma carpeta, para poner a funcionar el script solo es necesario correr el script llamado "cicica_bot.py".
-## Manual de uso
+## Manual sobre el bot
 [Descargar Manual de uso](https://www.ejemplo.com)
 ## Flyer informmativo
 ![Flyer CICICA_Bot ](https://www.canva.com/design/DAFn9-1cXsc/Hxo339S8dGGbsGFWnsvfVQ/watch)
